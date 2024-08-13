@@ -19,9 +19,9 @@ public class PrivateClass2 {
         A a = new A();
         a.m1();
 
-// We cant access this method because this is private method.
-// Error : java: m2() has private access in MemberModifiers.PrivatePackage2.A
-//                a.m2();
+    // We cant access this method because this is private method.
+    // Error : java: m2() has private access in MemberModifiers.PrivatePackage2.A
+    //                a.m2();
 
 
     }
