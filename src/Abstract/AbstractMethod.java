@@ -1,4 +1,4 @@
-// ********* If class has at least  one abstract method then class should be abstract. ***
+package Abstract;// ********* If class has at least  one abstract method then class should be abstract. ***
 
 
 abstract class AbstractMethod {
