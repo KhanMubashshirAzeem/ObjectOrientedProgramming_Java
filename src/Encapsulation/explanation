@@ -1,0 +1,10 @@
+
+Main.java class is one class to understand the concept of Encapsulation.
+
+
+
+Person class is used for users detail and its so we used getter and setter to access that data.
+
+PersonError in this class we have seen that we can set the data like we set in public access modifier.
+
+PersonOutput in this class we have seen that we can set and get private data only using getter and setter method.
