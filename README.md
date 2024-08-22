@@ -57,6 +57,36 @@ Polymorphism allows one interface to be used for different data types. It mainly
 <img src="https://github.com/user-attachments/assets/e85fa7bf-2640-42c3-85f3-4f19922f199b" alt="Method Overloading in Java" width="500"/>
 
 
+### Method Overriding in Java
+
+**Method overriding occurs when a subclass provides a specific implementation for a method already defined in its superclass. This allows the subclass to modify or extend the behavior of the inherited method.**
+
+<img src="https://github.com/user-attachments/assets/6a1c77d8-20a0-4725-af32-c738e8398648" alt="Image" width="500"/>
+
+
+#### Rules for Java Method Overriding
+
+Method overriding in Java is governed by several important rules that ensure proper implementation and behavior across classes. Below are the key rules:
+
+1. **Overriding and Access Modifiers**  
+   The overriding method cannot reduce the visibility of the inherited method (e.g., from `public` to `protected`).
+
+2. **Final Methods Cannot Be Overridden**  
+   Methods declared as `final` cannot be overridden by subclasses.
+
+3. **Static Methods Cannot Be Overridden (Method Overriding vs Method Hiding)**  
+   Static methods are not overridden; they are hidden when redefined in a subclass.
+
+4. **Private Methods Cannot Be Overridden**  
+   Private methods are not visible to subclasses, so they cannot be overridden.
+
+5. **The Overriding Method Must Have the Same Return Type (or Subtype)**  
+   The return type of the overriding method must match or be a subtype of the overridden method’s return type.
+
+6. **Invoking Overridden Method from Subclass**  
+   You can use `super.methodName()` within the subclass to call the superclass’s overridden method.
+
+
 
 These additions further solidify your understanding of OOP principles and how they enhance Java programming through code reuse, flexibility, and modular design.
 ---
