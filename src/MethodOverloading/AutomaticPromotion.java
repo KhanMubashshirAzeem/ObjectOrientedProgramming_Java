@@ -5,9 +5,14 @@ public class AutomaticPromotion {
         System.out.println("Checking Automatic promotion");
     }
 
+    void m1(Object o){
+        System.out.println("Object Version");
+    }
+
     public static void main(String[] args) {
         AutomaticPromotion automaticPromotion = new AutomaticPromotion();
         automaticPromotion.m1('a');    // but we are not getting error because of automatic promotion of datatype happen.
+        automaticPromotion.m1(new Object());
     }
 
 }

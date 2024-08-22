@@ -1,0 +1,11 @@
+For more detail visit gfg:  https://www.geeksforgeeks.org/overriding-in-java/   <-- Just copy this URL and paste it on any search engine eg: Google, ETC.
+
+Rules for Java Method Overriding
+    1. Overriding and Access Modifiers
+    2. Final methods can not be overridden
+    3. Static methods can not be overridden(Method Overriding vs Method Hiding):
+    4. Private methods can not be overridden
+    5. The overriding method must have the same return type (or subtype)
+    6. Invoking overridden method from sub-class
+
+Method Overriding vs Method Overloading
