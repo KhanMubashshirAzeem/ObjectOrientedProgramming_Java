@@ -3,7 +3,7 @@
 // By Changing Data Types of the Parameters
 
 // Importing required classes
-package MethodOverloading;
+package Polymorphism.MethodOverloading;
 
 
 public class ChangeInDataTypes {

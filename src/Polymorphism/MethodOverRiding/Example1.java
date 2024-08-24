@@ -1,4 +1,4 @@
-package MethodOverRiding;
+package Polymorphism.MethodOverRiding;
 
 class parentClass {
     public void property() {

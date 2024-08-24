@@ -1,4 +1,4 @@
-package MethodOverloading;
+package Polymorphism.MethodOverloading;
 
 public class AutomaticPromotion {
     void m1(int a){    // we declare "a" as a integer

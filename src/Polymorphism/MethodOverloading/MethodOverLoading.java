@@ -1,4 +1,4 @@
-package MethodOverloading;
+package Polymorphism.MethodOverloading;
 
 public class MethodOverLoading {
     // Driver code

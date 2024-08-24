@@ -1,4 +1,4 @@
-package MethodOverloading;
+package Polymorphism.MethodOverloading;
 // Java Program to Illustrate Method Overloading
 // By Changing the Number of Parameters
 

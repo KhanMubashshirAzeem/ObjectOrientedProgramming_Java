@@ -1,6 +1,6 @@
 // Java Program to Illustrate Method Overloading
 // By changing the Order of the Parameters
-package MethodOverloading;
+package Polymorphism.MethodOverloading;
 
 public class ChangeInOrder {
     // Main function

@@ -1,4 +1,4 @@
-package MethodOverRiding;
+package Polymorphism.MethodOverRiding;
 
 public class Rule1 {
     public static void main(String[] args) {

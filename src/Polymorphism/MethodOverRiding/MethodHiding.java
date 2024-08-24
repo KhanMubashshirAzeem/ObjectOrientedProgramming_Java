@@ -1,4 +1,4 @@
-package MethodOverRiding;
+package Polymorphism.MethodOverRiding;
 
 public class MethodHiding {
     public static void a1() {
