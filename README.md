@@ -76,7 +76,7 @@ These concepts are neatly packaged and documented to make it easier to grasp and
 
 ---
 
-# [Data Structure Using Java](https://github.com/KhanMubashshirAzeem/Data-Structure-Using-Java)
+# [Data Structure in Java](https://github.com/KhanMubashshirAzeem/Data-Structure-Using-Java)
 
 ## 🔗 Connect with me.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/KhanMubashshirAzeem)
